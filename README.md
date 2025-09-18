@@ -186,6 +186,4 @@ Schema::create('commissions', function (Blueprint $table) {
 * [ ] Add instructions how to run seeders and example credentials
 * [ ] Document remaining tasks and short plan (we already included this)
 
----
 
-Good luck — you’ve done solid work so far 👌. This README now reflects all completed parts (manual login, role management by Admin, separate dashboards, cart system, pagination with seed data).
